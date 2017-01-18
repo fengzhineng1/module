@@ -18,7 +18,7 @@
     display: block; position: relative; width: 100%; height: 100%;
     text-decoration: none; color: #ffffff; font-size: 36px; line-height: 36px;
 }
-/*-------------chrome模式下的css-----------*/
+/*-------------chrome妯″紡涓嬬殑css-----------*/
 
 #outdatedChrome{
     display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
